@@ -37,4 +37,4 @@ public:
 };
 ```
 ### Accepted
-[![image](https://user-images.githubusercontent.com/44930179/147873107-6516b2e3-9430-4e8d-af6c-a95529eef3b2.png)](https://practice.geeksforgeeks.org/viewSol.php?subId=4414e23d7e25bdddf6d738461ed8e97b&pid=703093&user=yashasvi05sakure)
+[![image](https://user-images.githubusercontent.com/44930179/147874937-e1581315-4bbf-43c6-b9f9-32819b9ac118.png)](https://practice.geeksforgeeks.org/viewSol.php?subId=4414e23d7e25bdddf6d738461ed8e97b&pid=703093&user=yashasvi05sakure)
