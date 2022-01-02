@@ -14,6 +14,7 @@ Ugly numbers are numbers whose only prime factors are 2, 3 or 5. The sequence 1,
 4 
 ```
 ### Solution 
+```cpp
 class Solution{
 public:	
 	// #define ull unsigned long long
@@ -34,5 +35,6 @@ public:
 	   return *s.begin();
 	}
 };
+```
 ### Accepted
 [![image](https://user-images.githubusercontent.com/44930179/147873107-6516b2e3-9430-4e8d-af6c-a95529eef3b2.png)](https://practice.geeksforgeeks.org/viewSol.php?subId=4414e23d7e25bdddf6d738461ed8e97b&pid=703093&user=yashasvi05sakure)
